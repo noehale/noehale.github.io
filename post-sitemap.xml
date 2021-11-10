@@ -2,14 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://noehale.github.io/</loc>
+        <loc>https://noehale.github.io/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
 
     <url>
-        <loc>http://noehale.github.io/how-to-tame-and-train-your-new-ferret/</loc>
+        <loc>https://noehale.github.io/how-to-tame-and-train-your-new-ferret/</loc>
         <lastmod>2021-05-01T05:26:14.035Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -17,7 +17,7 @@
     </url>
 
     <url>
-        <loc>http://noehale.github.io/what-kind-of-toys-do-ferrets-like-to-play-with/</loc>
+        <loc>https://noehale.github.io/what-kind-of-toys-do-ferrets-like-to-play-with/</loc>
         <lastmod>2021-04-09T03:24:37.325Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -25,7 +25,7 @@
     </url>
 
     <url>
-        <loc>http://noehale.github.io/things-to-know-before-adopting-a-pet-as-pet/</loc>
+        <loc>https://noehale.github.io/things-to-know-before-adopting-a-pet-as-pet/</loc>
         <lastmod>2020-08-03T06:52:12.450Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -33,7 +33,7 @@
     </url>
 
     <url>
-        <loc>http://noehale.github.io/ferret-quiz/</loc>
+        <loc>https://noehale.github.io/ferret-quiz/</loc>
         <lastmod>2020-05-29T03:40:23.066Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -41,7 +41,7 @@
     </url>
 
     <url>
-        <loc>http://noehale.github.io/fun-ferret-games/</loc>
+        <loc>https://noehale.github.io/fun-ferret-games/</loc>
         <lastmod>2020-04-09T04:55:42.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -49,7 +49,7 @@
     </url>
 
     <url>
-        <loc>http://noehale.github.io/best-ferret-food/</loc>
+        <loc>https://noehale.github.io/best-ferret-food/</loc>
         <lastmod>2020-03-05T02:08:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -57,7 +57,7 @@
     </url>
 
     <url>
-        <loc>http://noehale.github.io/how-much-does-a-ferret-cage-cost/</loc>
+        <loc>https://noehale.github.io/how-much-does-a-ferret-cage-cost/</loc>
         <lastmod>2020-02-04T06:39:13.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -65,7 +65,7 @@
     </url>
 
     <url>
-        <loc>http://noehale.github.io/ferret-care/</loc>
+        <loc>https://noehale.github.io/ferret-care/</loc>
         <lastmod>2019-12-27T00:26:42.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -73,7 +73,7 @@
     </url>
 
     <url>
-        <loc>http://noehale.github.io/important-ferret-facts/</loc>
+        <loc>https://noehale.github.io/important-ferret-facts/</loc>
         <lastmod>2019-12-25T01:38:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
